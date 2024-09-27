@@ -1,0 +1,7 @@
+.Nav-Bar{
+    border: #ce1f3a solid 5px;
+    background-color: #ffffff;
+    display: flex;
+    padding: 20px;
+    border-radius: 80px;
+}

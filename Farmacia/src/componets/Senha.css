@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+
+.Gerador-de-senha{
+    margin-left: 460px;
+}
+
+.Chamador-de-senha{
+    margin-left: 450px;
+}
+
+.senha-chamada{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+.senha{
+    margin-right: 1600px;
+}

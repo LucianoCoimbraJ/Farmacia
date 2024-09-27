@@ -1,0 +1,36 @@
+:root{
+    --cor-1: #e23e57;
+    --cor-2: #ffffff;
+    --cor-3: #e96a7e;
+    --cor-4: #ce1f3a;
+    --cor-5: #e6e6e6;
+    --cor-6: #ef97a4;
+}
+
+body{
+    background-color: #e23e57;
+}
+
+button{
+    border-radius: 40px;
+    background-color: #ef97a4;
+    border-color: #e23e57;
+    margin-left: 50px;
+    padding: 40px;
+}
+
+
+
+img{
+    margin-right: 500px;
+    width: 5%;
+    height: auto;
+}
+
+.logo_principal{
+    border-radius: 40px;
+    margin-top: 100px;
+    margin-left: 540px;
+    width: 40%;
+    height: auto;
+}

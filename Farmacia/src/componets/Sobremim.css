@@ -1,0 +1,22 @@
+:root{
+    --cor-1: #e23e57;
+    --cor-2: #ffffff;
+    --cor-3: #e96a7e;
+    --cor-4: #ce1f3a;
+    --cor-5: #e6e6e6;
+    --cor-6: #ef97a4;
+}
+
+
+h1{
+    border: 10px solid #ce1f3a;
+    border-radius: 40px;
+    background-color: #e96a7e;
+    padding: 30px;
+    text-align: center;
+}
+.foto{
+    margin-left: 400px;
+    width: 50%;
+    height: auto;
+}
